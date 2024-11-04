@@ -1,0 +1,14 @@
+asgiref==3.8.1
+Django==5.1
+django-dbbackup==4.2.1
+django-haystack==3.3.0
+django-jazzmin==3.0.0
+packaging==24.1
+pillow==10.4.0
+python-dotenv==1.0.1
+pytz==2024.1
+setuptools==65.5.1
+sqlparse==0.5.1
+tzdata==2024.1
+wheel==0.38.4
+Whoosh==2.7.4
